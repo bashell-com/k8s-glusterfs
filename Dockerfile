@@ -1,4 +1,4 @@
-FROM rancher/k8s:v1.5.4-rancher1-3
+FROM rancher/k8s:v1.5.4-rancher1-4
 MAINTAINER Chaiwat Suttipongsakul "cwt@bashell.com"
 
 ENV GLUSTERFS38=https://download.gluster.org/pub/gluster/glusterfs/3.8/LATEST
