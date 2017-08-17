@@ -6,9 +6,9 @@ This Docker image is the same as [rancher/k8s](https://hub.docker.com/r/rancher/
 
 1. Go to your Rancher Dashboard -> KUBERNETES -> Infrastructure Stacks -> Kubernetes -> kubelet.
 2. Click on `Upgrade` button.
-3. On `Select Image` input field, change `rancher/k8s:v1.5.4-rancher1-4` to `bashell/k8s:v1.5.4-rancher1-4-glusterfs38`.
+3. On `Select Image` input field, change `rancher/k8s:v1.7.2-rancher7` to `bashell/k8s:v1.7.2-rancher7-glusterfs38`.
 
 ### Note: ###
 
-* This image is created for the latest Rancher `rancher:latest` only!
+* This image is created for the latest Rancher `rancher:stable` only!
 * Please also follow the [Kubernetes Glusterfs Example](https://github.com/kubernetes/kubernetes/tree/master/examples/volumes/glusterfs) to use Glusterfs in your Pod.
