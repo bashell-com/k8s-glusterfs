@@ -6,7 +6,7 @@ This Docker image is the same as [rancher/k8s](https://hub.docker.com/r/rancher/
 
 1. Go to your Rancher Dashboard -> KUBERNETES -> Infrastructure Stacks -> Kubernetes -> kubelet.
 2. Click on `Upgrade` button.
-3. On `Select Image` input field, change `rancher/k8s:v1.7.2-rancher7` to `bashell/k8s:v1.7.2-rancher7-glusterfs38`.
+3. On `Select Image` input field, change `rancher/k8s:v1.7.4-rancher2` to `bashell/k8s:v1.7.4-rancher2-glusterfs38`.
 
 ### Note: ###
 
