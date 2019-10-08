@@ -1,4 +1,4 @@
-FROM rancher/k8s:v1.11.9-rancher1-1
+FROM rancher/k8s:v1.12.7-rancher1-1
 MAINTAINER Chaiwat Suttipongsakul "cwt@bashell.com"
 
 RUN apt update \
