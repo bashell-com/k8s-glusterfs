@@ -1,4 +1,4 @@
-FROM rancher/k8s:v1.12.10-rancher1-1
+FROM docker.io/rancher/k8s:v1.12.10-rancher1-1
 MAINTAINER Chaiwat Suttipongsakul "cwt@bashell.com"
 
 RUN apt update \
